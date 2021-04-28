@@ -1,6 +1,6 @@
 ---
 role: Research Fellow at Mass General Hospital
-avatar_filename: 00000img_00000_burst20181028154516861_cover.png
+avatar_filename: avatar.png
 bio: My research interests include statistical signal processing, machine
   learning and neural data analysis.
 interests:
