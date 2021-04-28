@@ -1,77 +1,53 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: Research Fellow at Mass General Hospital
+avatar_filename: 00000img_00000_burst20181028154516861_cover.png
+bio: My research interests include statistical signal processing, machine
+  learning and neural data analysis.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Neural Data Analysis
+  - Statistical Signal Processing
+  - Machine Learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/proloyd1
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=1s8bdnEAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/proloyd
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/proloy-das-34940952/
+organizations:
+  - name: Massachusetts General Hospital
+    url: https://www.massgeneral.org/anesthesia/
+  - name: Massachusetts Institute of Technology
+    url: https://www.mit.edu/
+  - url: https://hms.harvard.edu/
+    name: Harvard Medical School
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Electrical Engineering
+      institution: University Of Maryland, College Park
+      year: 2020
+    - course: MS in Electrical Engineering
+      institution: University Of Maryland, College Park
+      year: 2019
+    - course: BTech in Instrumentation Engineering
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2015
+superuser: true
 highlight_name: false
+title: Proloy Das
+email: pdas6@mgh.harvard.edu
 ---
+Proloy Das is a research fellow of Anesthesia at the Purdon Lab. His research interests include statistical signal processing, machine learning and neural data analysis. He leads the signal processing front at the multi-disciplinary group, which engages in various transnational and exploratory research for the betterment of human health and our understanding of brain activities.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He received the Ph.D. and M.S. degrees in [Electrical Engineering](https://ece.umd.edu/) from  [University of Maryland, College Park](https://umd.edu/) in 2019 and 2020 respectively and the B.Tech. degree in [Instrumentation Engineering](http://www.iitkgp.ac.in/department/EE) from [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/), India in 2015. His dissertation received an Honorable Mention in [Charles Caramello Distinguished Dissertation Award](https://gradschool.umd.edu/funding/student-fellowships-awards/distinguished-dissertation-award) 2021 Competition in the disciplinary area of Mathematics, Physical Sciences, and Engineering and was recognized by [ECE Distinguished Dissertation Award](https://ece.umd.edu/news/story/ece-names-20192020-distinguished-dissertation-fellows) and [Dean's Doctoral Student Research Award (second place)](https://ece.umd.edu/news/story/2020-deans-doctoral-student-research-awards) in 2020.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
