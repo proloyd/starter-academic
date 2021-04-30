@@ -23,6 +23,7 @@ design:
       - "0"
 ---
 
+<!--
 ## 👋 Welcome to the Academic Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
@@ -57,3 +58,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 ## Get inspired
 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+-->
